@@ -53,7 +53,7 @@ class SettingsPage extends StatelessWidget {
             ),
           ),
         ),
-        bottomSheet: BottomSheetNavigation(),
+        bottomNavigationBar: BottomSheetNavigation(),
       ),
     );
   }
